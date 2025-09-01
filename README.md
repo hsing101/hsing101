@@ -11,6 +11,10 @@ Through past internships, side projects, and extracurriculars, I have attained s
 - 🧶 Exploring other creative hobbies, like playing guitar and tennis
 
 ## 🔧 Skills & Expertise
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - **Languages:** Python, C++, JavaScript, C#, Java, HTML/CSS, PHP, Verilog, ARM Assembly, MySQL, MATLAB
 - **Technologies:** Linux, ROS, RESTful API, React, AWS, PyTorch, OpenCV, Android Studio, .NET, Github Actions, Git, Figma
 
@@ -20,3 +24,5 @@ Through past internships, side projects, and extracurriculars, I have attained s
 - **Email**: [harmanjeet.ca18@gmail.com](harmanjeet.ca18@gmail.com)  
 
 Feel free to connect with me and schedule a coffee chat ☕ !
+
+![](https://komarev.com/ghpvc/?username=hsing101&color=blueviolet)
