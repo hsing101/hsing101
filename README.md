@@ -14,4 +14,9 @@ Through past internships, side projects, and extracurriculars, I have attained s
 - **Languages:** Python, C++, JavaScript, C#, Java, HTML/CSS, PHP, Verilog, ARM Assembly, MySQL, MATLAB
 - **Technologies:** Linux, ROS, RESTful API, React, AWS, PyTorch, OpenCV, Android Studio, .NET, Github Actions, Git, Figma
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/harmanjeet-singh-674187250/) and schedule a coffee chat ☕ !
+## 📫 Let's Connect!
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/harmanjeet-singh-674187250/)  
+- **GitHub**: [Follow me](https://github.com/hsing101)  
+- **Email**: [harmanjeet.ca18@gmail.com](harmanjeet.ca18@gmail.com)  
+
+Feel free to connect with me and schedule a coffee chat ☕ !
