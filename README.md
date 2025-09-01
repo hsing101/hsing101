@@ -6,9 +6,9 @@ My name is Harmanjeet and I study Computer Engineering at the University of Brit
 Through past internships, side projects, and extracurriculars, I have attained skills in full-stack development, data science, embedded systems, robotics, design, and leadership. In my free time, I enjoy drawing, painting, hiking, reading, working out, and running!
 
 **Currently I am:**
-- 🗺️ 
-- 🦾 
-- 🧶 Exploring other creative hobbies, like playing the guitar and tennis
+- 🗺️ Working as Data Annotator at TransPerfect to train AI models
+- 🦾 Building a mental health application with 15000+ users, targeting third-world regions
+- 🧶 Exploring other creative hobbies, like playing guitar and tennis
 
 **Tech stack:**
 - **Languages:** Python, C++, JavaScript, C#, Java, HTML/CSS, PHP, Verilog, ARM Assembly, MySQL, MATLAB
