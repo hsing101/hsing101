@@ -11,7 +11,7 @@ Through past internships, side projects, and extracurriculars, I have attained s
 - 🧶 Exploring other creative hobbies, like playing guitar and tennis
 
 ## 🔧 Skills & Expertise
-<!-- Languages -->
+### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -26,7 +26,7 @@ Through past internships, side projects, and extracurriculars, I have attained s
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 
-<!-- Technologies -->
+### Technologies:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=swagger&logoColor=white)
