@@ -8,7 +8,7 @@ My name is **Harmanjeet Singh** and I’m pursuing a **Bachelor of Applied Scien
 
 **Currently I am:**
 - 🗺️ Working as a **Data Annotator** at **DataForce by TransPerfect**, enhancing AI models for speech, vision, and NLP
-- 🦾 Developing autonomous navigation and robotic arm control software as a **Software Developer** on the **UBC Rover** team
+- 🦾 Developing navigation and robotic arm control software for **UBC Rover** engineering design team
 - 🧶 Exploring creative hobbies like guitar and tennis
 
 ---
@@ -21,7 +21,6 @@ My name is **Harmanjeet Singh** and I’m pursuing a **Bachelor of Applied Scien
 **🤖 UBC Rover – Software Developer** (Sept 2024 – Present)  
 - Improved rover efficiency by **40%** through autonomous navigation and control algorithms in C++ and ROS2  
 - Designed **50+ Unity simulations** in C# to validate kinematics and obstacle avoidance  
-- Achieved **2 cm robotic arm precision** via inverse kinematics and trajectory planning  
 - Enhanced localization and detection by **15%** using LiDAR, IMU, and camera sensor fusion  
 
 ---
