@@ -7,7 +7,7 @@
 My name is **Harmanjeet Singh** and I’m pursuing a **Bachelor of Applied Science in Computer Engineering (Minor in Data Science)** at the **University of British Columbia**. I am passionate about **software development, robotics, AI/ML, and embedded systems**, and I aim to build impactful solutions at the intersection of technology and real-world problems.
 
 **Currently I am:**
-- 🗺️ Working as a **Data Annotator** at **DataForce by TransPerfect**, enhancing AI models for speech, vision, and NLP
+- 🗺️ Working as a **Data Annotator** at **TransPerfect**, enhancing AI models for speech, vision, and NLP
 - 🦾 Developing navigation and robotic arm control software for **UBC Rover** engineering design team
 - 🧶 Exploring creative hobbies like guitar and tennis
 
