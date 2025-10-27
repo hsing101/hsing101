@@ -1,4 +1,4 @@
-## `👋 Hi! I’m Harman`
+## ` Hi! I’m Harman`
 
 🦀 Full-stack developer with a focus on NLP and ML engineering<br />
 📖 Currently reading [Crafting Interpreters](https://timothya.com/pdfs/crafting-interpreters.pdf) <br />
